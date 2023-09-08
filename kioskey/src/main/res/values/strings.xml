@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kioskey_name">Kioskey</string>
+
+    <string name="kioskey_confirm_button">OK</string>
+    <string name="kioskey_cancel_button">Cancell</string>
+
+    <string name="kioskey_toast_granted_permissions">All permissions are granted</string>
+    <string name="kioskey_toast_exiting_totem">Saindo do modo Totem</string>
+    <string name="kioskey_error_validate_password">Não foi possível validar a sua senha</string>
+
+    <string name="kioskey_info_password_request">Digite a senha para sair do modo Kiosk</string>
+    <string name="kioskey_info_permission_request">Conceda as seguintes permissões:</string>
+    <string name="kioskey_info_permission_request_message">Requisitar a permissão de $1%s</string>
+
+</resources>
